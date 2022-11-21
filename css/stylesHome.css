@@ -38,6 +38,7 @@ h1 {
 .top div {
     margin-top: 10%;
 }
+
 /* mobile */
 @media (min-width: 1199.98px) {
     .top div p {
