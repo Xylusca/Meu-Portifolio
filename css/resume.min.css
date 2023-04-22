@@ -44,7 +44,7 @@ h2 {
 }
 
 .list-social-icons a:hover {
-    color: #bd5d38
+    color: #3857bd
 }
 
 .list-social-icons a .fa-lg {
@@ -56,7 +56,7 @@ h2 {
 }
 
 .list-icons .list-inline-item i:hover {
-    color: #bd5d38
+    color: #3857bd
 }
 
 .list-icons .list-inline-item a {
@@ -88,7 +88,7 @@ h2 {
 
     #sideNav .navbar-brand .img-profile {
         max-width: 10rem;
-        max-height: 10rem;
+        /* max-height: 10rem; */
         border: .5rem solid rgba(255, 255, 255, .2)
     }
 
@@ -142,21 +142,21 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-    background-color: #bd5d38 !important
+    background-color: #3857bd !important
 }
 
 .text-primary {
-    color: #bd5d38 !important
+    color: #3857bd !important
 }
 
 a {
-    color: #bd5d38
+    color: #3857bd
 }
 
 a:active,
 a:focus,
 a:hover {
-    color: #824027
+    color: #041857
 }
 
 .card img {
@@ -170,7 +170,9 @@ card-body {
     height: 215px;
     overflow: hidden;
 }
-.read-more-btn, .read-less-btn{
+
+.read-more-btn,
+.read-less-btn {
     color: #4c00ff;
     text-decoration: underline;
 }
