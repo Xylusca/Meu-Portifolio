@@ -14,11 +14,11 @@ function toggleText(button) {
 
     if (dots.style.display === "none") {
         dots.style.display = "inline";
-        button.innerHTML = "Ler Mais";
+        button.innerHTML = "Recolher";
         moreText.style.display = "none";
     } else {
         dots.style.display = "none";
-        button.innerHTML = "Ler Menos";
+        button.innerHTML = "Continuar lendo";
         moreText.style.display = "inline";
     }
 }
