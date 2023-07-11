@@ -1,10 +1,10 @@
-#Portfólio - Lucas Pereira
+<h1>#Portfólio - Lucas Pereira</h1>
 Este é o repositório do meu portfólio, onde compartilho informações sobre mim, meus projetos e minhas habilidades como desenvolvedor. O portfólio foi desenvolvido usando HTML, CSS e JavaScript, e está disponível online em https://xylusca.github.io/Meu-Portifolio/.
 
 <h2>#Sobre mim</h2>
 Meu nome é Lucas Pereira, sou um desenvolvedor web em busca de oportunidades para me aprimorar e contribuir em projetos desafiadores. Sou apaixonado por programação e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades existentes. Sou especializado em desenvolvimento full-stack com foco em PHP e utilizo o framework Laravel em meus projetos.
 
-<h2>#Conteúdo do Portfólio
+<h2>#Conteúdo do Portfólio</h2>
 O portfólio contém as seguintes seções:
 
 <strong>Sobre:</strong> Uma breve descrição sobre mim, minha redes sociais e contatos.
