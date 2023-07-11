@@ -19,4 +19,4 @@ O portfólio contém as seguintes seções:
 Você pode acessar meu portfólio online em <a href='https://xylusca.github.io/Meu-Portifolio/'>https://xylusca.github.io/Meu-Portifolio</a>. Sinta-se à vontade para navegar pelas diferentes seções e conhecer mais sobre mim e meu trabalho.
 
 <h2>#Contato</h2>
-Se você tiver alguma pergunta, sugestão ou oportunidade de trabalho, fique à vontade para entrar no meu linkedin<a href='https://www.linkedin.com/in/lucas-pereira-9480141b7/'>Clique aqui</a>
+Se você tiver alguma pergunta, sugestão ou oportunidade de trabalho, fique à vontade para entrar no meu linkedin <a href='https://www.linkedin.com/in/lucas-pereira-9480141b7/'>Clique aqui</a>
